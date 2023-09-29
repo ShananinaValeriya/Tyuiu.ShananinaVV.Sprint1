@@ -45,6 +45,7 @@ namespace Tyuiu.ShananinaVV.Sprint1.Task7.V10
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
 
+
             Console.WriteLine(ds.Calculate(x));
             Console.ReadKey();
         }
