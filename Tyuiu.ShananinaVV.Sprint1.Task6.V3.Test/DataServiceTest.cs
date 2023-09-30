@@ -16,7 +16,6 @@ namespace Tyuiu.ShananinaVV.Sprint1.Task6.V3.Test
             string res = ds.LastLetterWord(strTest);
             string wait = "супер";
             Assert.AreEqual(wait, res);
-
         }
     }
 }

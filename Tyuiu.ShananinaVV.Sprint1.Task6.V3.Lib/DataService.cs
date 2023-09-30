@@ -25,7 +25,6 @@ namespace Tyuiu.ShananinaVV.Sprint1.Task6.V3.Lib
             }
 
             return result;
-
         }
     }
 }
