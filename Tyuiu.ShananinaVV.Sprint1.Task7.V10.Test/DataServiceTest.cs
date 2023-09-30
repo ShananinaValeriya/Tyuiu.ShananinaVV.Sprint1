@@ -16,6 +16,7 @@ namespace Tyuiu.ShananinaVV.Sprint1.Task7.V10.Test
             double wait = 0.727;
             var res = ds.Calculate(x);
             Assert.AreEqual(wait, res);
+
         }
     }
 }
